@@ -8,8 +8,8 @@ For practising musicians, who want to improve their rhythmic capabilities, Class
 
 ## Screenshots
 
-![portrait](screenshots/Classical Metronome Screenshot Portrait.png)
-![landscape](screenshots/Classical Metronome Screenshot Landscape.png)
+![portrait](https://github.com/Christedge/ClassicalMetronome/blob/master/screenshots/Classical%20Metronome%20Screenshot%20Portrait.png)
+![landscape](https://github.com/Christedge/ClassicalMetronome/blob/master/screenshots/Classical%20Metronome%20Screenshot%20Landscape.png)
 
 
 ## Acknowledgments
