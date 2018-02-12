@@ -6,8 +6,10 @@ A spike of a metronome app that just provides the most essential features.
 
 * Precise timing, e.g. the gap between two beats is a constant time without any variances due to operating system latencies.
 * Distraction free user interface, e.g. without moving or blinking user interface controls.
+* Support for portrait and landscape modes as well as handset and tablet devices. 
 * Straightforward usage. The features should be as simple to use as possible. Start/Stop should be available even in case the device is placed at some distance.
-* Familiar timbre (ff course, de gustibus non est disputandum :).
+* Support for tapping in the tempo (by touching the tempo display multiple times).
+* Familiar timbre (of course, de gustibus non est disputandum :) .
 
 ## Screenshots
 
