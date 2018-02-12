@@ -1,10 +1,13 @@
 # Classical Metronome
 
-A metronome that just provides the most essential features.
+A spike of a metronome app that just provides the most essential features.
 
-## Product Vision
+## Features
 
-For practising musicians, who want to improve their rhythmic capabilities, Classical Metronome is a Metronome app that is distraction free and straightforward to use. Unlike other metronome apps, Classical Metronome excels at its absolutely precise timing and its familiar analog sound of a traditional metronome.
+* Precise timing, e.g. the gap between two beats is a constant time without any variances due to operating system latencies.
+* Distraction free user interface, e.g. without moving or blinking user interface controls.
+* Straightforward usage. The features should be as simple to use as possible. Start/Stop should be available even in case the device is placed at some distance.
+* Familiar timbre (ff course, de gustibus non est disputandum :).
 
 ## Screenshots
 
