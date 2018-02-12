@@ -6,6 +6,11 @@ A metronome that just provides the most essential features.
 
 For practising musicians, who want to improve their rhythmic capabilities, Classical Metronome is a Metronome app that is distraction free and straightforward to use. Unlike other metronome apps, Classical Metronome excels at its absolutely precise timing and its familiar analog sound of a traditional metronome.
 
+## Screenshots
+
+![portrait](screenshots/Classical Metronome Screenshot Portrait.png)
+![landscape](screenshots/Classical Metronome Screenshot Landscape.png)
+
 
 ## Acknowledgments
 
