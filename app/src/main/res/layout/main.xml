@@ -1,0 +1,81 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	android:id="@+id/MainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	android:orientation="vertical"
+    android:gravity="center" >
+
+	<View
+	  android:layout_width="match_parent"
+	  android:layout_height="0dp"
+	  android:layout_weight="1" />
+
+	<TextView
+        android:id="@+id/tempoName"
+		android:elevation="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+		android:layout_marginTop="20dp"
+		android:layout_centerHorizontal="true"
+		style="@style/TempoNameStyle"
+        android:text=""
+		android:maxLines="3"
+		android:minLines="3"
+		android:gravity="center" />
+
+	<View
+	  android:layout_width="match_parent"
+	  android:layout_height="0dp"
+	  android:layout_weight="1" />
+
+	<Button
+		android:id="@+id/buttonCurrentTempo"
+		android:elevation="20dp"
+		android:background="@drawable/play_button_shape"
+		android:layout_width="160dp"
+		android:layout_height="160dp"
+		android:layout_marginTop="20dp"
+		style="@style/CurrentTempoStyle"
+		android:text="" />
+
+	<View
+	  android:layout_width="match_parent"
+	  android:layout_height="0dp"
+	  android:layout_weight="1" />
+
+	<com.github.shchurov.horizontalwheelview.HorizontalWheelView
+		android:id="@+id/tempoWheel"
+		android:scaleY="1.8"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="20dp"
+		android:layout_marginBottom="20dp"
+		app:onlyPositiveValues="true"
+		app:showActiveRange="false"
+		app:endLock="true" />
+
+	<View
+	  android:layout_width="match_parent"
+	  android:layout_height="0dp"
+	  android:layout_weight="1" />
+
+	<ImageButton
+		android:id="@+id/playButton"
+		android:elevation="20dp"
+		android:background="@drawable/play_button_shape"
+		android:layout_width="240dp"
+		android:layout_height="240dp"
+		android:layout_marginBottom="20dp"
+		android:gravity="center"
+		android:src="@drawable/play_button_selector" />
+
+	<View
+	  android:layout_width="match_parent"
+	  android:layout_height="0dp"
+	  android:layout_weight="1" />
+
+</LinearLayout>
+
+

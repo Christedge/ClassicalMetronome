@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Classical Metronome</string>
+    <string name="larghissimo">Larghissimo</string>
+    <string name="grave">Grave</string>
+	<string name="largo">Largo</string>
+	<string name="lento">Lento</string>
+	<string name="larghetto">Larghetto</string>
+	<string name="adagio">Adagio</string>
+	<string name="adagietto">Adagietto</string>
+	<string name="andante">Andante</string>
+	<string name="andantino">Andantino</string>
+	<string name="marcia_moderato">Marcia moderato</string>
+	<string name="andante_moderato">Andante moderato</string>
+	<string name="moderato">Moderato</string>
+	<string name="allegretto">Allegretto</string>
+	<string name="allegro_moderato">Allegro moderato</string>
+	<string name="allegro">Allegro</string>
+	<string name="vivace">Vivace</string>
+	<string name="vivacissimo">Vivacissimo</string>
+	<string name="allegrissimo">Allegrissimo (Allegro vivace)</string>
+	<string name="presto">Presto</string>
+	<string name="prestissimo">Prestissimo</string>
+</resources>

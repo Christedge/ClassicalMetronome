@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- https://android-developers.googleblog.com/2014/10/implementing-material-design-in-your.html -->
+<ripple
+    xmlns:android="http://schemas.android.com/apk/res/android"
+	android:color="?android:colorControlHighlight">
+    <item>
+        <shape
+            android:shape="oval">
+			<stroke android:width="2dp" android:color="@color/gray" />
+			<solid android:color="@color/ButtonBackground"/>
+        </shape>
+    </item>
+</ripple>
+
+

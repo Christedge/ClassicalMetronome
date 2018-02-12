@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="white">#ffffff</color>
+	<color name="black">#000000</color>
+	<color name="almost_black">#3d3a3b</color>
+	<color name="gray">#999999</color>
+	<color name="blue">#0066cc</color>
+	<color name="darkgoldenrod">#b8860b</color>
+	<color name="brown">#a52a2a</color>
+	<color name="MainTextColor">#FFFAFA</color>
+	<color name="BpmTextColor">#FFFAFA</color>
+	<color name="ButtonBackground">#454545</color>
+</resources>
